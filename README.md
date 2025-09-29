@@ -1,2 +1,3 @@
-# move-drafts
-Move draft packages
+# Move Drafts
+
+This repo contains exploration of Sui Move patterns and contracts.
