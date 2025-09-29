@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: MPL-2.0
+
 /*
 #[test_only]
 module cross_contract_admincap::cross_contract_admincap_tests;
